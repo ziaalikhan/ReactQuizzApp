@@ -1,0 +1,42 @@
+.App_Heading {
+  text-align: center;
+}
+.question_Container {
+  max-width: 500px;
+  box-shadow: 0 0 10px black;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.ques {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.radiobtn {
+  display: block;
+  margin: 5px 0;
+}
+
+.submit_btn {
+  width: 100%;
+  padding: 7px;
+  border: none;
+  /* height: 38px; */
+  color: white;
+  font-size: 18px;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  background-color: rgb(49 49 151);
+}
+
+.result_container {
+  max-width: 500px;
+  text-align: center;
+  box-shadow: 0 0 10px black;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
